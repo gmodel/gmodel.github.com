@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.gmodel.semanticextensions.testscripts' version='0.1.0.201107270051'>
+    <properties size='6'>
+      <property name='artifact.size' value='3485'/>
+      <property name='download.size' value='3485'/>
+      <property name='download.md5' value='6a57b4292a9fd3d5db24991da3aace6a'/>
+      <property name='maven-groupId' value='org.gmodel'/>
+      <property name='maven-artifactId' value='org.gmodel.semanticextensions.testscripts'/>
+      <property name='maven-version' value='0.1.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>

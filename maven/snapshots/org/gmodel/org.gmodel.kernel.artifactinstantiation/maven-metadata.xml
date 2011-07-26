@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.gmodel</groupId>
+  <artifactId>org.gmodel.kernel.artifactinstantiation</artifactId>
+  <versioning>
+    <versions>
+      <version>0.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20110726225210</lastUpdated>
+  </versioning>
+</metadata>

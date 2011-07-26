@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.gmodel.serialization' version='0.1.0.201107270051'>
+    <properties size='6'>
+      <property name='artifact.size' value='1476576'/>
+      <property name='download.size' value='1476576'/>
+      <property name='download.md5' value='02bdeb56b9949eba046c0d5be9886c61'/>
+      <property name='maven-groupId' value='org.gmodel'/>
+      <property name='maven-artifactId' value='org.gmodel.serialization'/>
+      <property name='maven-version' value='0.1.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>

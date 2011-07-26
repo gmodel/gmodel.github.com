@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='1'>
+  <artifact classifier='osgi.bundle' id='org.gmodel.hibernateosgi' version='0.1.0.201107270051'>
+    <properties size='6'>
+      <property name='artifact.size' value='12946476'/>
+      <property name='download.size' value='12946476'/>
+      <property name='download.md5' value='a29d325e857f1778249ca1a1cf101fe0'/>
+      <property name='maven-groupId' value='org.gmodel'/>
+      <property name='maven-artifactId' value='org.gmodel.hibernateosgi'/>
+      <property name='maven-version' value='0.1.0-SNAPSHOT'/>
+    </properties>
+  </artifact>
+</artifacts>
